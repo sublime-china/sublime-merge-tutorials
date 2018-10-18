@@ -1,4 +1,4 @@
-# Mac命令行
+# [Sublime Merge] Mac命令行
 
 > 在Mac系统中, Sublime Merge有一个命令行工具. 方便我们在终端模式中打开Git本地仓库.
 
