@@ -9,7 +9,7 @@
 | ctrl+r / F5 | 刷新 |
 | ctrl+k, ctrl+b | 打开侧边栏 |
 | ctrl+alt+up | git push |
-| ctrl+alt+down | git |
+| ctrl+alt+down | git pull |
 | ctrl+s | 储藏 |
 | ctrl+shift+s | 移除储藏 |
 | ctrl+p | 显示命令面板 |

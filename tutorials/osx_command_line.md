@@ -4,7 +4,7 @@
 
 ## 设置
 
-ln -s "/Applications/Sublime Merge.app/Contents/SharedSupport/bin/smerge" ~/bin/sm
+`ln -s "/Applications/Sublime Merge.app/Contents/SharedSupport/bin/smerge" ~/bin/sm`
 
 ## 使用
 
