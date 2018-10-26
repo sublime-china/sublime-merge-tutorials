@@ -8,6 +8,7 @@
 
 
 #### 教程
+- [简介](./tutorials/introduce.md)  
 - [快捷键](./tutorials/shortcut_key.md)  
 - [Mac命令行](./tutorials/osx_command_line.md)  
 - [解决冲突](./case/conflict/solve_conflict.md)  
