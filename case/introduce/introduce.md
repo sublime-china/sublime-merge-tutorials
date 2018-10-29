@@ -3,14 +3,14 @@
 
 ![](./01.png)
 
-### 什么是`Sublime Merge`
+### 什么是Sublime Merge
 
-`Sublime Merge`是`Sublime Text`的姐妹产品.    
-都来自于`Sublime HQ 家族`.    
-虽然名字带`Merge`, 感觉是一款合并工具.    
+Sublime Merge是Sublime Text的姐妹产品.    
+都来自于Sublime HQ 家族.    
+虽然名字带Merge, 感觉是一款合并工具.    
 **但其本质是一个Git的客户端.** 
 
-- `Sublime Merge`坚持了`Sublime Text`一贯的作风:    
+- Sublime Merge坚持了Sublime Text一贯的作风:    
     - 更轻量    
     - 更快捷    
     - 更美观    
@@ -18,7 +18,7 @@
 
 - 价钱也一如既往的贵, 99刀.    当然, 不购买也能正常的使用.     
     - 偶尔会弹出一个提示框    
-    - 不能使用`Merge Dark`的主题    
+    - 不能使用Merge Dark的主题    
 
 
 ### 特点
