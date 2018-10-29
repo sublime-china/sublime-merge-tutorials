@@ -13,3 +13,7 @@
 - [Mac命令行](./tutorials/osx_command_line.md)  
 - [解决冲突](./case/conflict/solve_conflict.md)  
 - [Sublime Merge中的Hunk是什么意思](./case/hunk/hunk.md)  
+
+
+### 更新日志
+- [Change Log](./tutorials/change_log.md)
