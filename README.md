@@ -1,10 +1,12 @@
-# Sublime Merge Tutorials
-> Sublime Merge 教程
+# `Sublime Merge`教程  
+
+[![SublimeMerge][sublime-merge-image]](sublime-merge-link)
 
 
 #### 相关链接
-- [Sublime Merger Website](https://www.sublimemerge.com/)  
-- [Sublime Merger 中文教程](https://github.com/sublime-china/sublime-merge-tutorials)  
+- [`Sublime Merger`中文教程](https://github.com/sublime-china/sublime-merge-tutorials)  
+- [`Sublime Merger`官网](https://www.sublimemerge.com/)  
+- [`Sublime Merger`官方文档](https://www.sublimemerge.com/docs/)  
 
 
 #### 教程
@@ -17,3 +19,7 @@
 
 ### 更新日志
 - [Change Log](./tutorials/change_log.md)
+
+
+[sublime-merge-image]: https://img.shields.io/badge/Sublime-Merge-orange.svg
+[sublime-merge-link]: https://www.sublimemerge.com/
