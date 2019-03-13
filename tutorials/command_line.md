@@ -51,3 +51,10 @@ git config merge.tool smerge
 ```
 git mergetool
 ```
+
+## mac下可以直接用brew安装(from [issues](https://github.com/sublime-china/sublime-merge-tutorials/issues/1))  
+
+```
+brew cask install sublime-merge
+```
+自动创建命令行smerge的软链接  
