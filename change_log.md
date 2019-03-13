@@ -1,5 +1,25 @@
 # 更新日志
 
+### BUILD 1107    
+> 12 March 2019    
+
+- 侧边栏的'Contents'部分, 现在可以在`showing changed`和`all files`之间切换.  
+> 空格键或者鼠标多点一次当前文件的标题.  
+- `Sublime Merge`现在可以当成一个独立的合并工具, 通过命令行的`smerge --help`查看详情.  
+- Merge tool: 改进原始文件和合并文件之间切换UI显示效果.  
+- 添加`Navigate/Go to Parent`菜单项.  
+> 如果分支很多, 合并线条很复杂的情况下, 这个功能可以很方便的找到当前分支当前commit的上一个commit.  
+- 改进`clone`对话框.  
+- 各种语法高亮的改进.  
+- Merge tool now indicates which lines have been modified in the merged file  
+- Merge tool: swap_line_up, swap_line_down and duplicate_line commands are now supported  
+- 解决`git flow`命令显示高度不一致的bug  
+- Mac: 对苹果系统`native tabs`的完全支持.  
+- Mac: 确保菜单在缩放时的显示.  
+- Mac: 错误信息对话框不能通过Esc键关闭.  
+- Linux: Color glyphs are now drawn properly on light backgrounds  
+- Windows: Fix DirectWrite handling of fonts with lineGap > 0  
+
 
 ### Build 1084    
 > 29 October 2018    
