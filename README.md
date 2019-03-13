@@ -18,7 +18,7 @@
 
 
 ### 更新日志
-- [Change Log](./tutorials/change_log.md)
+- [Change Log](./change_log.md)
 
 
 [sublime-merge-image]: https://img.shields.io/badge/Sublime-Merge-orange.svg
